@@ -1200,6 +1200,13 @@ section,
 .portfolio-details .portfolio-description p {
   padding: 0;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
+  margin-bottom: 10px;
+}
+
+.portfolio-details .portfolio-description ul {
+  padding: 1;
+  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
